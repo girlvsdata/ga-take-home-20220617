@@ -1,2 +1,2 @@
-# private-immutable-20220617
-Private repository for Game Analyst take home task
+# ga-take-home-20220617
+Repository for Game Analyst take home task
